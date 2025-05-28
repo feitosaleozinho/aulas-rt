@@ -1,0 +1,12 @@
+site_name: Leonardo Feitosa | Student
+
+theme: 
+  name: material
+  logo: assets/favicon.ico
+
+nav:
+  - Home: index.md
+  - Projetos:
+      - Casa para PCD (IOT): blogs/projetos/casa_pcd.md
+  - Anotações: 
+      - Estudo de Zabbix: blogs/anotacoes/zabbix.md
